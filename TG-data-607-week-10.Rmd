@@ -122,6 +122,6 @@ ggplot(afinn_sentiment, aes(index, sentiment)) +
 
 ## Conclusion
 
-
+For what appeared to be a pretty streaightforward assignment, I ran into some suprising issues. I did some quick research and learned about the gutenbergr package which sources open source literature. At first I had a tough time loading the file do to some internet issues. Then once I did get it to load, everything I downloaded came in as an empty dataset. Ultimately, I had to download the .txt file and house it on my github in order to complete the assignment. But it's all here now!
 
 
